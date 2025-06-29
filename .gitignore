@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# PM2 logs
+pids/
+*.pid
+*.seed
+
+# Misc
+*.tgz
+*.swp
+*.swo
+
+# Custom ignore (if needed)
+# public/uploads/
